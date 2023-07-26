@@ -7,6 +7,9 @@
 
 // Tests are generated such that the answer will not exceed 107 and hour will have at most two digits after the decimal point.
 
+
+// The problem is that it's timing out which suggests an infinite while loop?
+
 /**
  * @param {number[]} dist
  * @param {number} hour
